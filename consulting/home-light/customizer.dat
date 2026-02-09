@@ -1,0 +1,5 @@
+a:4:{s:8:"template";s:8:"advisora";s:4:"mods";a:16:{i:0;b:0;s:18:"nav_menu_locations";a:0:{}s:18:"custom_css_post_id";i:1695;s:13:"header_layout";s:2:"20";s:13:"header_mobile";s:2:"21";s:12:"is_sidepanel";b:1;s:16:"sidepanel_layout";s:2:"30";s:13:"footer_layout";s:2:"62";s:9:"backtotop";b:0;s:10:"pheader_bg";a:1:{s:16:"background-image";s:77:"https://advisora.pikathemes.site/wp-content/uploads/2025/12/bg-pheader-1.webp";}s:14:"pheader_height";a:1:{s:7:"desktop";s:5:"530px";}s:11:"blog_layout";s:15:"content-sidebar";s:10:"blog_style";s:4:"list";s:9:"blog_cols";s:6:"cols-3";s:16:"sidebars_widgets";a:2:{s:4:"time";i:1768883888;s:4:"data";a:2:{s:19:"wp_inactive_widgets";a:3:{i:0;s:7:"block-5";i:1;s:7:"block-6";i:2;s:13:"recent_news-2";}s:7:"primary";a:5:{i:0;s:7:"block-7";i:1;s:7:"block-8";i:2;s:13:"recent_news-3";i:3;s:7:"block-9";i:4;s:8:"block-10";}}}s:7:"preload";b:1;}s:7:"options";a:2:{s:9:"site_icon";s:2:"10";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:94:".second-form + .wpcf7-response-output{
+	position: absolute;
+	width: 100%;
+	background: #fff;
+}";}
