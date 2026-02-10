@@ -1,0 +1,7 @@
+<svg class="icon-card-arrow" width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+<path d="M17.5 26.25L6.5 26.25C4.29086 26.25 2.5 24.4591 2.5 22.25L2.5 7.75C2.5 5.54086 4.29087 3.75 6.50001 3.75L23.5 3.75C25.7091 3.75 27.5 5.54086 27.5 7.75L27.5 17.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<circle cx="7.5" cy="21.25" r="1.25" fill="currentColor"/>
+<path d="M2.5 8.75L27.5 8.75L27.5 13.75L2.5 13.75L2.5 8.75Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.5178 26.25L27.1339 24.6339C27.622 24.1457 27.622 23.3543 27.1339 22.8661L25.5178 21.25M20 23.75L26.7678 23.75" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<style>svg.icon-card-arrow, svg.icon-card-arrow path{fill: none!important;}</style>
+</svg>

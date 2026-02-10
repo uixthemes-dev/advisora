@@ -1,0 +1,5 @@
+<svg class="icon-arrow-right" width="22" height="22" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+<path d="M4.58301 11H17.4163" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11 4.58398L17.4167 11.0007L11 17.4173" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<style>svg.icon-arrow-right, svg.icon-arrow-right path{fill: none!important;}</style>
+</svg>
