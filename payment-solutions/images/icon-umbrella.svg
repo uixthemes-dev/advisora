@@ -1,0 +1,6 @@
+<svg class="icon-umbrella" width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+<path d="M10 25C10 26.3807 11.1193 27.5 12.5 27.5C13.8807 27.5 15 26.3807 15 25V15" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M15 2.5C20.5496 2.5 26.1579 7.51554 27.2926 13.0143C27.5158 14.0961 26.6046 15 25.5 15H4.5C3.39543 15 2.48418 14.0961 2.70741 13.0143C3.84214 7.51554 9.45042 2.5 15 2.5Z" stroke="currentColor" stroke-width="2"/>
+<path d="M15 2.5C17.7614 2.5 20 8.09644 20 15H10C10 8.09644 12.2386 2.5 15 2.5Z" stroke="currentColor" stroke-width="2"/>
+<style>svg.icon-umbrella, svg.icon-umbrella path{fill: none!important;}</style>
+</svg>

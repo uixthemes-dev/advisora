@@ -1,0 +1,9 @@
+<svg class="icon-stop-fast" width="35" height="35" viewBox="0 0 35 35" xmlns="http://www.w3.org/2000/svg">
+<path d="M29.8962 19.6876C29.8962 12.8416 24.3464 7.29175 17.5003 7.29175C10.6543 7.29175 5.10449 12.8416 5.10449 19.6876C5.10449 26.5336 10.6543 32.0834 17.5003 32.0834H29.8962" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M21.875 3.52059C20.4842 3.12724 19.0167 2.91675 17.5 2.91675C15.9833 2.91675 14.5158 3.12724 13.125 3.52059" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M19.6875 20.4167C19.6875 21.6249 18.7081 22.6042 17.5 22.6042C16.2919 22.6042 15.3125 21.6249 15.3125 20.4167C15.3125 19.2086 16.2919 18.2292 17.5 18.2292C18.7081 18.2292 19.6875 19.2086 19.6875 20.4167Z" stroke="currentColor" stroke-width="2"/>
+<path d="M17.5 17.5V13.125" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.333 27.7083L29.8955 27.7083" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M26.25 23.3333H29.8958" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<style>svg.icon-stop-fast, svg.icon-stop-fast path{fill: none!important;}</style>
+</svg>
