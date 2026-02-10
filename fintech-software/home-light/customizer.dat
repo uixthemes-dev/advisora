@@ -1,0 +1,26 @@
+a:4:{s:8:"template";s:8:"advisora";s:4:"mods";a:33:{i:0;b:0;s:18:"nav_menu_locations";a:0:{}s:18:"custom_css_post_id";i:175;s:10:"blog_style";s:4:"grid";s:9:"blog_cols";s:6:"cols-3";s:11:"blog_layout";s:12:"full-content";s:15:"post_entry_meta";a:3:{i:0;s:4:"tags";i:1;s:4:"date";i:2;s:6:"author";}s:10:"author_box";b:0;s:8:"post_nav";b:0;s:10:"main_color";s:7:"#000000";s:23:"btn_solid_primary_color";s:7:"#ffffff";s:25:"btn_solid_primary_bgcolor";s:7:"#00897b";s:29:"btn_solid_primary_hover_color";s:7:"#ffffff";s:31:"btn_solid_primary_hover_bgcolor";s:7:"#000000";s:25:"btn_outline_hover_bgcolor";s:7:"#00897b";s:30:"btn_outline_hover_border_color";s:7:"#00897b";s:30:"btn_solid_primary_border_color";s:7:"#00897b";s:36:"btn_solid_primary_hover_border_color";s:7:"#000000";s:13:"header_layout";s:3:"193";s:13:"header_mobile";s:3:"225";s:15:"bpheader_switch";b:1;s:14:"pheader_layout";s:3:"233";s:10:"pheader_bg";a:1:{s:16:"background-color";s:7:"#eceff1";}s:12:"ptitle_color";s:7:"#000000";s:11:"bread_color";s:7:"#000000";s:14:"pheader_height";a:1:{s:7:"desktop";s:5:"350px";}s:15:"ppheader_switch";b:0;s:13:"footer_layout";s:3:"261";s:7:"preload";b:1;s:13:"preload_color";s:7:"#00897b";s:9:"backtotop";b:1;s:12:"bg_backtotop";s:7:"#000000";s:15:"color_backtotop";s:7:"#ffffff";}s:7:"options";a:2:{s:9:"site_icon";s:2:"12";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:507:".entry-content{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.blog-post .tagcloud a:hover,
+.widget .tagcloud a:hover, 
+.widget .wp-block-tag-cloud a:hover{
+	background: #00897B;
+	border-color: #00897B;
+}
+.adv-cf-form input,
+.adv-cf-form select,
+.adv-cf-form textarea{
+	background-color: #ECEFF1;
+	&:focus{
+		background-color: transparent;
+	}
+}
+.adv-switchs-wrap .adv-switchs-label span{
+	background: #00897B;
+}
+.second-form + .wpcf7-response-output{
+	position: absolute;
+	width: 100%;
+	background: #fff;
+}";}
